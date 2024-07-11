@@ -1,0 +1,55 @@
+/* Set the background color for the body element */
+body {
+    background-color: #E0E0E2;
+}
+
+/* Set the text color for h1 and h2 elements */
+h1, h2 {
+    color: #721817;
+}
+
+/* Center text for the center-text class */
+.center-text {
+    text-align: center;
+}
+
+/* Style for the element with id logo */
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Set text color and font size for span elements that are children of h2 */
+h2 > span {
+    color: #FA9F42;
+    font-size: 0.75em;
+}
+
+/* Style for the element with id copyright */
+#copyright {
+    padding-top: 12px;
+    font-size: 0.75em;
+}
+
+/* Additional styles for Task 2 */
+
+/* Set border for the image with id photo */
+#photo {
+    border: 2px solid blue;
+}
+
+/* Set color for heading 1 with your name */
+h1 {
+    color: blue;
+}
+
+/* Set color for all h2 headings */
+h2 {
+    color: grey;
+}
+
+/* Apply margin to all div elements */
+div {
+    margin: 4px;
+}
